@@ -1,32 +1,67 @@
 
-# Tinder Swipe
+# Check.io Initiaton con Python
 
-Este proyecto lo realicé paso a paso siguiento un tutorial de un canal de Youtube el cual sigo y me ha resultado muy útil; la idea del proyecto es realizarlo sin ningun framework ni dependencia ya que está realizado con HTML, CSS y Javascript, con este proyecto podemos aprender como deslizar imágenes de una página web o de un mobilhas ta hacerlas desaparecer utilizando las transiciones y las rotaciones de CSS.
+Bienvenido a mi repositorio, aquí podrás encontrar todas las soluciones a los desafíos que he ido realizando en la página web https://py.checkio.org/ en la cual encontrarás varios desafíos y ejercicios para aprender o practicar Python o Typescript, recuerda que para adquirir cualquier conocimiento lo primero que debes hacer es estudiar y pacticar demaciado; a medida que vaya solucionando los ejercicios voy a ir actualizando el repositorio.
 
-Toda la información la puedes sacar de la siguiente página web [100 proyectos de JS](https://www.javascript100.dev/)
-
-Este el el repositorio donde realicé la práctica y el cual iré modificando para darle mis propios estilos y retoques:
-
-- [Tinder Swipe](https://github.com/juancmdev/tinder-swipe)
-
-El deploy lo realicé en [Netlify](https://tinder-swipe.netlify.app/)
+Espero les guste y me puedan regalar una estrella para que este repositorio le vaya llegando a todos aquellos que igual que yo están empezando, aprendiendo y les pueda llegar a ser de utilidad.
 
 
 
 
-## Autores
+## Appendice
 
-- [@midudev](https://github.com/midudev)
+Contenido del repositorio
+
+01_multiply_intro.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/01_multiply_intro.py
+
+02_First_word.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/02_First_word.py
+
+03_Is_even.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/03_Is_even.py
+
+04_Aceptable_password_I.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/04_Aceptable_password_I.py
+
+05_Number_length.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/05_Number_length.py
+
+06_Backward_string.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/06_Backward_string.py
+
+07_The_most_frecuent-py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/07_The_most_frecuent-py
+
+08_Sum_numbers.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/08_Sum_numbers.py
+
+09_End_zeros.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/09_End_zeros.py
+
+10_All_the_same.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/10_All_the_same.py
+
+11_Easy_unpack.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/11_Easy_unpack.py
+
+12_Count_digits.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/12_Count_digits.py
+
+13_All_upper_I.py: https://github.com/juancmdev/checkio-self-solutions/tree/main/Python
+
+14_Remove_all_before.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/14_Remove_all_before.py 
+
+15_max_digit.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/15_max_digit.py
+
+16_replace_first.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/16_replace_first.py
+
+17_beginning_zeros.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/17_beginning_zeros.py
 ## 🚀 Acerca de mi
-Soy juancmdev, Ingeniero Electrónico egresado de la Institución Universitaria Salazar y Herrera en Medellín Colombia, amante de la tecnología en especial de la programación y el desarrollo web por lo cual en mis tiempos libres me dedico a investigar y realizar prácticas y tutoriales  los cuales me ayudan a reforzar conocimientos que vengo adquiriendo en este proceso de aprendizaje.
+Soy @juancmdev, Ingeniero Electrónico egresado de la Institución Universitaria Salazar y Herrera en Medellín Colombia, amante de la tecnología en especial de la programación y el desarrollo web por lo cual en mis tiempos libres me dedico a investigar y realizar prácticas y tutoriales  los cuales me ayudan a reforzar conocimientos que vengo adquiriendo en este proceso de aprendizaje.
 
 
 ## 🔗 Links
-[![portfolio](https://app.netlify.com/teams/draxustienda/overview)](https://netlify.com/)
-[![linkedin](https://www.linkedin.com/in/juan-carlos-moreno-j-14829423b/)](https://www.linkedin.com/)
-[![Github](https://github.com/juancmdev)](https://github.com/)
+[![portfolio](https://netlify.com/)](https://app.netlify.com/teams/draxustienda/overview)
+[![linkedin](https://www.linkedin.com/)](https://www.linkedin.com/in/juan-carlos-moreno-j-14829423b/)
+[![Github](https://github.com/)](https://github.com/juancmdev)
 
 
-## 🛠 Habilidades
-Javascript, HTML, CSS
+## Más acerca de mi
+👩‍💻 Estoy trabajando actualmente en JM Trucks SAS.
+
+🧠 Estoy aprendiendo HTML5, CSS3, Javascript, Python, React JS.
+
+👯‍♀️ Me gustaría colaborar en proyectos para ganar experiencia como desarrollador.
+
+📫 Me puedes contactar vía email a juancmorenoj@gmail.com.
+
 
