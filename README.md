@@ -1,12 +1,8 @@
-
 # Check.io Initiaton con Python
 
 Bienvenido a mi repositorio, aquí podrás encontrar todas las soluciones a los desafíos que he ido realizando en la página web https://py.checkio.org/ en la cual encontrarás varios desafíos y ejercicios para aprender o practicar Python o Typescript, recuerda que para adquirir cualquier conocimiento lo primero que debes hacer es estudiar y pacticar demaciado; a medida que vaya solucionando los ejercicios voy a ir actualizando el repositorio.
 
 Espero les guste y me puedan regalar una estrella para que este repositorio le vaya llegando a todos aquellos que igual que yo están empezando, aprendiendo y les pueda llegar a ser de utilidad.
-
-
-
 
 ## Appendice
 
@@ -38,24 +34,28 @@ Contenido del repositorio
 
 13_All_upper_I.py: https://github.com/juancmdev/checkio-self-solutions/tree/main/Python
 
-14_Remove_all_before.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/14_Remove_all_before.py 
+14_Remove_all_before.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/14_Remove_all_before.py
 
 15_max_digit.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/15_max_digit.py
 
 16_replace_first.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/16_replace_first.py
 
 17_beginning_zeros.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/17_beginning_zeros.py
-## 🚀 Acerca de mi
-Soy @juancmdev, Ingeniero Electrónico egresado de la Institución Universitaria Salazar y Herrera en Medellín Colombia, amante de la tecnología en especial de la programación y el desarrollo web por lo cual en mis tiempos libres me dedico a investigar y realizar prácticas y tutoriales  los cuales me ayudan a reforzar conocimientos que vengo adquiriendo en este proceso de aprendizaje.
 
+18*between_markers*(simplified): https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/18_between_markers_(simplified).py
+
+## 🚀 Acerca de mi
+
+Soy @juancmdev, Ingeniero Electrónico egresado de la Institución Universitaria Salazar y Herrera en Medellín Colombia, amante de la tecnología en especial de la programación y el desarrollo web por lo cual en mis tiempos libres me dedico a investigar y realizar prácticas y tutoriales los cuales me ayudan a reforzar conocimientos que vengo adquiriendo en este proceso de aprendizaje.
 
 ## 🔗 Links
+
 [![portfolio](https://netlify.com/)](https://app.netlify.com/teams/draxustienda/overview)
 [![linkedin](https://www.linkedin.com/)](https://www.linkedin.com/in/juan-carlos-moreno-j-14829423b/)
 [![Github](https://github.com/)](https://github.com/juancmdev)
 
-
 ## Más acerca de mi
+
 👩‍💻 Estoy trabajando actualmente en JM Trucks SAS.
 
 🧠 Estoy aprendiendo HTML5, CSS3, Javascript, Python, React JS.
@@ -63,5 +63,3 @@ Soy @juancmdev, Ingeniero Electrónico egresado de la Institución Universitaria
 👯‍♀️ Me gustaría colaborar en proyectos para ganar experiencia como desarrollador.
 
 📫 Me puedes contactar vía email a juancmorenoj@gmail.com.
-
-
