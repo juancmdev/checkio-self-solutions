@@ -24,7 +24,10 @@ assert list(remove_all_before([1, 1, 5, 6, 7], 2)) == [1, 1, 5, 6, 7]
 
 def remove_all_before(items: list, border: int): #-> Iterable:
     # your code here
-    orden = items[border-1:]
-    print(orden)
+    if items.count(border) > 0: #Guaranted border exist in list
+        find_index = items.index(border) #find index border
+        return items[find_index:] #return all numbers from find-index to the finish of the list
+    else:
+        return items
 
-remove_all_before([1, 2, 3, 4, 5], 3)
+print(remove_all_before([1, 2, 3, 4, 5], 3))
