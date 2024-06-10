@@ -21,16 +21,14 @@ assert between_markers("[an apple]", "[", "]") == "an apple"
 
 def between_markers(text: str, start: str, end: str) -> str:
     # your code here
-    list_text = list(text)
-    index_start = list_text.index(start)
-    if text[index_start+1].isalpha():
-        print(type(index_start))
-        print(index_start)
-        index_end = list_text.index(end)
-        print(index_end)
-        return list_text[index_start+1:index_end]
+    list_text = list(text) # convert the list to text
+    index_start = list_text.index(start) # Find index where program have to start 
+    if text[index_start+1].isalpha(): # If the next character after te start is alpha
+        index_end = list_text.index(end) # Find index where program have to end
+        res = list_text[index_start+1:index_end] #I crop from and to what the program should display
+        final_res = "".join([str(el) for el in res])
+        return final_res
     else:
-        return "vacío"
-    
+        return""
 
-print(between_markers("What is ><", ">", "<"))
+print(between_markers("[an apple]", "[", "]"))
