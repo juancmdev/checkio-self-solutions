@@ -18,7 +18,8 @@ assert max_digit(1) == 1
 def max_digit(value: int) -> int:
     # your code here
     value = str(value)
-    value = [*value]
-    return value
+    value_list = [*value] #I get each value independently separated by semicolon, it's like doing a split
+    result = int(max(value_list)) #I convert the result to an integer and obtain the maximum value
+    return result
 
-print(max_digit(6534589))
+print(max_digit(65345))
