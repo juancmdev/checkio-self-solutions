@@ -18,15 +18,7 @@ from typing import Iterable
 def split_pairs(text: str) -> Iterable[str]:
     # your code here
     length = len(text)
-    n = 0
-    my_list = []
-
-    if length % 2:
-        pass
-    else:
-        x = text[0:n + 2]
-        my_list.append(x)
-        print(my_list)
+    print(length % 2)
     return text
 
 print(split_pairs("abcd"))
