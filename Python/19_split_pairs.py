@@ -26,6 +26,6 @@ def split_pairs(text: str) -> Iterable[str]:
     while text:
         result.append(text[:2])
         text = text[2:]
-        return result
+    return result
 
 print(split_pairs("abcdrf"))
