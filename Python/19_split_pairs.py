@@ -12,20 +12,20 @@ assert list(split_pairs("abcdf")) == ["ab", "cd", "f_"]
 assert list(split_pairs("a")) == ["a_"]
 
 '''
-from typing import Iterable
-
-
-def split_pairs(text: str) -> Iterable[str]:
+def split_pairs(text):
     # your code here
-    if len(text) % 2:
-        text = text + "_"
-        return text
-
+    length = len(text) + 1
+    x = 1
     
-    result: list = []
-    while text:
-        result.append(text[:2])
-        text = text[2:]
-    return result
+    if length % 2 == 0:
+        text += '_'
+        return text
+    else:
+        res = []
+        while x < length:
+            res.append(text[:2])
+            text = text[2:]
+            x += 2
+        return res
 
 print(split_pairs("abcdrf"))
