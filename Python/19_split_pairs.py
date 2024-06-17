@@ -16,16 +16,21 @@ def split_pairs(text):
     # your code here
     length = len(text) + 1
     x = 1
+    res = []
     
     if length % 2 == 0:
         text += '_'
-        return text
+        while x < length:
+            print(text)
+            res.append(text[:2])
+            text = text[2:]
+            x += 2
+        return res
     else:
-        res = []
         while x < length:
             res.append(text[:2])
             text = text[2:]
             x += 2
         return res
 
-print(split_pairs("abcdrf"))
+print(split_pairs("abc"))
