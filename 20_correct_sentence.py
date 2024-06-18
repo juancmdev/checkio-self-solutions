@@ -26,8 +26,26 @@ Precondition: No leading and trailing spaces, text contains only spaces, a-z, A-
 
 def correct_sentence(text: str) -> str:
     # your code here
-    my_list = []
-    x = text.split()
-    return x
+    dot = '.'
+    length = len(text)
+
+    if text[length - 1] == dot:
+        x = text.split()
+        x[0] = x[0].capitalize()
+        delimiter = " "
+        new_text = delimiter.join(x)
+        print(new_text)
+        return new_text
+    
+    else:
+        x = text.split()
+        x[0] = x[0].capitalize()
+        delimiter = " "
+        new_text = delimiter.join(x)
+        new_text += '.'
+        print(new_text)
+        return new_text
+        
+
 
 print(correct_sentence("greetings, friends"))
