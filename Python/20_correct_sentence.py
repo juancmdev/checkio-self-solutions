@@ -27,21 +27,19 @@ Precondition: No leading and trailing spaces, text contains only spaces, a-z, A-
 def correct_sentence(text: str) -> str:
     # your code here
     dot = '.'
-    length = len(text)
+    length = len(text) #find the length of the text
 
     if text[length - 1] == dot:
-        x = text.split()
-        x[0] = x[0].capitalize()
-        delimiter = " "
-        new_text = delimiter.join(x)
+        text_split = text.split()
+        text_split[0] = text_split[0].capitalize()
+        new_text = " ".join(text_split)
         print(new_text)
         return new_text
     
     else:
         x = text.split()
         x[0] = x[0].capitalize()
-        delimiter = " "
-        new_text = delimiter.join(x)
+        new_text = " ".join(x)
         new_text += '.'
         print(new_text)
         return new_text
