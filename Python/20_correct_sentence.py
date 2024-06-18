@@ -33,15 +33,13 @@ def correct_sentence(text: str) -> str:
         text_split = text.split()
         text_split[0] = text_split[0].capitalize()
         new_text = " ".join(text_split)
-        print(new_text)
         return new_text
     
     else:
-        x = text.split()
-        x[0] = x[0].capitalize()
-        new_text = " ".join(x)
+        text_split = text.split()
+        text_split[0] = text_split[0].capitalize()
+        new_text = " ".join(text_split)
         new_text += '.'
-        print(new_text)
         return new_text
         
 
