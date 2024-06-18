@@ -29,17 +29,17 @@ def correct_sentence(text: str) -> str:
     dot = '.'
     length = len(text) #find the length of the text
 
-    if text[length - 1] == dot:
-        text_split = text.split()
-        text_split[0] = text_split[0].capitalize()
-        new_text = " ".join(text_split)
+    if text[length - 1] == dot: #Ask if the text contains a dot
+        text_split = text.split() #Split the text and save it in a list
+        text_split[0] = text_split[0].capitalize() #Capitalize first character
+        new_text = " ".join(text_split) # I convert a list to a text string
         return new_text
     
     else:
-        text_split = text.split()
-        text_split[0] = text_split[0].capitalize()
-        new_text = " ".join(text_split)
-        new_text += '.'
+        text_split = text.split() #Split the text and save it in a list
+        text_split[0] = text_split[0].capitalize() #Capitalize first character
+        new_text = " ".join(text_split) #I convert a list to a text string
+        new_text += '.' # Add a dot to the finish of the string
         return new_text
         
 
