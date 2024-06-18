@@ -46,7 +46,7 @@ Contenido del repositorio
 
 19_split_pairs: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/19_split_pairs.py
 
-20_correct_sentence:
+20_correct_sentence: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/20_correct_sentence.py
 
 ## 🚀 Acerca de mi
 
