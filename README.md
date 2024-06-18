@@ -42,9 +42,11 @@ Contenido del repositorio
 
 17_beginning_zeros.py: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/17_beginning_zeros.py
 
-18*between_markers*(simplified): https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/18_between_markers_(simplified).py
+18-between-markers(simplified): https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/18_between_markers*(simplified).py
 
 19_split_pairs: https://github.com/juancmdev/checkio-self-solutions/blob/main/Python/19_split_pairs.py
+
+20_correct_sentence:
 
 ## 🚀 Acerca de mi
 
